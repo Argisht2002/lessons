@@ -1,0 +1,14 @@
+a
+1
+b
+2
+c
+3
+d
+4
+e
+5
+
+for i,j in d.values(), d.keys():
+    if i <= pr:
+        print(j)
