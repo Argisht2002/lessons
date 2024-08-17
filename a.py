@@ -1,2 +1,4 @@
 print('hello world')
-print(10)
+print(130)
+
+print(1 + 3)
